@@ -6,6 +6,7 @@
     "npm": "^2.14.7"
   },
   "dependencies": {
+    "i-react-ui": "luqin/i-react-ui",
     "bootstrap": "3.3.5",
     "bootstrap-daterangepicker": "2.0.9",
     "bootstrap-hover-dropdown": "2.1.3",
