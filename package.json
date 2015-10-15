@@ -1,12 +1,12 @@
 {
   "name": "i-react-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "node": "^0.12",
     "npm": "^2.14.3"
   },
   "dependencies": {
-    "i-react-ui": "luqin/i-react-ui",
+    "i-react-ui": "^0.0.1",
     "bootstrap": "3.3.5",
     "classnames": "^2.1.5",
     "debug": "^2.2.0",
