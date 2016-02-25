@@ -1,0 +1,11 @@
+src/
+node_modules/
+build/
+docs/
+test/
+tools/
+.svnignore
+.gitignore
+*.iml
+.idea
+.svn
