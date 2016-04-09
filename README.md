@@ -1,4 +1,4 @@
-# i-react-app
+# react-app
 
 [![Build Status][travis-ci-image]][travis-ci-url]
 [![Dependency Status][deps-badge]][deps]
